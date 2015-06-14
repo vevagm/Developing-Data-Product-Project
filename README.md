@@ -1,14 +1,16 @@
 # Developing-Data-Product-Project
 
-This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+This assignment has two parts. First, I created a Shiny application and deployed it on Rstudio's servers. Second, I use Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
-The application must include the following:
+The application includes the following:
 
-Some form of input (widget: textbox, radio button, checkbox, ...)
-Some operation on the ui input in sever.R
+Fform of input (widget: textbox, radio button, checkbox, ...)
+Operation on the ui input in sever.R
 Some reactive output displayed as a result of server calculations
-You must also include enough documentation so that a novice user could use your application.
+Enough documentation so that a novice user could use your application.
 The documentation should be at the Shiny website itself. Do not post to an external link.
+
+The shinny app can be seen at https://vevagm.shinyapps.io/dataProducts. It is a fake prediction model for instagram likes.
 
 Your presentation must satisfy the following
 
