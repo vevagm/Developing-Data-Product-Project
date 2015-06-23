@@ -15,7 +15,7 @@ shinyUI(pageWithSidebar( headerPanel("Predicting Instagram Likes"), sidebarPanel
         h3('Results'),
         h4('Given the following parameters you entered'), 
         verbatimTextOutput("parameters"), 
-        h4('Your predicted number of likes is'), 
+        h4('Your predicted number of likes is'),
         verbatimTextOutput("prediction"), 
         br(),
         img(src = "http://st2.depositphotos.com/4275257/6298/v/450/depositphotos_62983257-Set-of-social-icons-like-instagram.jpg",width="250px",height="250px"),
